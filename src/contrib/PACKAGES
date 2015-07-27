@@ -1,0 +1,9 @@
+Package: flowr
+Version: 0.9.7.1
+Depends: methods, utils, diagram, whisker, params
+Imports: tools, knitr
+Suggests: reshape2, ggplot2, openxlsx
+License: MIT + file LICENSE
+MD5sum: 0687220719920645996972359bb2be0f
+NeedsCompilation: no
+
