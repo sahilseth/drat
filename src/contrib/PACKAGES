@@ -4,7 +4,7 @@ Depends: methods, utils
 Imports: diagram, whisker, params (>= 0.2.4), tools, knitr
 Suggests: reshape2, ggplot2, openxlsx, testthat
 License: MIT + file LICENSE
-MD5sum: 8233920f6ab82ad8092c521d4088114e
+MD5sum: 4ad79104ef6ac689ccc78cc7e3a7c240
 NeedsCompilation: no
 
 Package: ngsflows
@@ -13,5 +13,14 @@ Depends: flowr, utils
 Suggests: Rsamtools
 License: GPL
 MD5sum: c8df88c389a28cfd7d814854c31384ba
+NeedsCompilation: no
+
+Package: params
+Version: 0.2.5
+Depends: whisker
+Imports: highr, utils
+Suggests: openxlsx
+License: GPL-2
+MD5sum: dbc903a73c605284480d167335c99590
 NeedsCompilation: no
 
