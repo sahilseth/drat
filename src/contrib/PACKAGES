@@ -4,7 +4,7 @@ Depends: methods, utils
 Imports: diagram, whisker, params (>= 0.2.4), tools, knitr
 Suggests: reshape2, ggplot2, openxlsx, testthat
 License: MIT + file LICENSE
-MD5sum: ecbc098c013257f77a5d996e1bcea122
+MD5sum: 8233920f6ab82ad8092c521d4088114e
 NeedsCompilation: no
 
 Package: ngsflows
