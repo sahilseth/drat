@@ -1,10 +1,10 @@
 Package: flowr
-Version: 0.9.7.7
-Depends: methods, utils
-Imports: diagram, whisker, params (>= 0.2.4), tools, knitr
+Version: 0.9.7.9015
+Depends: methods, params (>= 0.2.8), utils
+Imports: diagram, whisker, tools, knitr
 Suggests: reshape2, ggplot2, openxlsx, testthat
 License: MIT + file LICENSE
-MD5sum: 38bdccbaf4065deef401c08e4dc485d7
+MD5sum: 6863f94346d14aa8e1a72eb1b277c0bf
 NeedsCompilation: no
 
 Package: ngsflows
