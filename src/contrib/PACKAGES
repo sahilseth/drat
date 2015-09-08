@@ -22,6 +22,6 @@ Depends: whisker
 Imports: utils
 Suggests: openxlsx, testthat
 License: GPL-2
-MD5sum: 9a48794765b6266fb86257a20f3d61a6
+MD5sum: e994e899a5199239753f26e38a9aed2c
 NeedsCompilation: no
 
