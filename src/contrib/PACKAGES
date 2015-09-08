@@ -8,11 +8,12 @@ MD5sum: 38bdccbaf4065deef401c08e4dc485d7
 NeedsCompilation: no
 
 Package: ngsflows
-Version: 0.3.8
-Depends: flowr, utils
+Version: 0.3.9013
+Depends: flowr (>= 0.9.7.10), utils
+Imports: params, RCurl, curl
 Suggests: Rsamtools
 License: GPL
-MD5sum: ba512c987d9076bcfe876c75bdd18a88
+MD5sum: 79eac0c05f32a70fbef87736bad2beca
 NeedsCompilation: no
 
 Package: params
