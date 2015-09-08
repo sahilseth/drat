@@ -17,11 +17,11 @@ MD5sum: 79eac0c05f32a70fbef87736bad2beca
 NeedsCompilation: no
 
 Package: params
-Version: 0.2.6
+Version: 0.2.10
 Depends: whisker
 Imports: utils
-Suggests: openxlsx
+Suggests: openxlsx, testthat
 License: GPL-2
-MD5sum: 37aa165c101402ba1ebc4247bbc4e608
+MD5sum: 9a48794765b6266fb86257a20f3d61a6
 NeedsCompilation: no
 
