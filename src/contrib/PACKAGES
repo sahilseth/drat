@@ -7,6 +7,13 @@ License: MIT + file LICENSE
 MD5sum: cfdf4463a5cb9ef35a252ca813cd941c
 NeedsCompilation: no
 
+Package: funr
+Version: 0.0.2
+Depends: R (>= 3.2.2)
+License: GPL
+MD5sum: e546f09a20a8f5f21bdc82c3cb08e818
+NeedsCompilation: no
+
 Package: ngsflows
 Version: 0.3.9013
 Depends: flowr (>= 0.9.7.10), utils
