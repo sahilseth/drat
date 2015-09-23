@@ -24,11 +24,11 @@ MD5sum: 66b43d77a581dd50a47faaea2d7b11ec
 NeedsCompilation: no
 
 Package: params
-Version: 0.2.10
-Depends: whisker
+Version: 0.3.0
+Depends: R (>= 3.0.2), whisker
 Imports: utils
 Suggests: openxlsx, testthat
 License: GPL-2
-MD5sum: e994e899a5199239753f26e38a9aed2c
+MD5sum: 861ab539fca69fd04826de8c4a64c3ea
 NeedsCompilation: no
 
