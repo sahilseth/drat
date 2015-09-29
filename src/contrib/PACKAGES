@@ -8,10 +8,10 @@ MD5sum: 171b1aa695c598a6e6b6aa32a0bcc6fc
 NeedsCompilation: no
 
 Package: funr
-Version: 0.0.2
-Depends: R (>= 3.2.2)
+Version: 0.1.2
+Imports: utils
 License: GPL
-MD5sum: e546f09a20a8f5f21bdc82c3cb08e818
+MD5sum: 8d60c4cff922689bf5534dad142de500
 NeedsCompilation: no
 
 Package: ngsflows
@@ -23,6 +23,15 @@ License: GPL
 MD5sum: 66b43d77a581dd50a47faaea2d7b11ec
 NeedsCompilation: no
 
+Package: packagedocs
+Version: 0.3.3
+Depends: R (>= 3.1.1)
+Imports: rmarkdown, htmltools, stringr, tools, yaml, whisker
+Suggests: staticdocs, testthat
+License: MIT + file LICENSE
+MD5sum: 93b84c0d6968f68e1fcc93d1e54cad0a
+NeedsCompilation: no
+
 Package: params
 Version: 0.3.0
 Depends: R (>= 3.0.2), whisker
@@ -30,5 +39,13 @@ Imports: utils
 Suggests: openxlsx, testthat
 License: GPL-2
 MD5sum: 861ab539fca69fd04826de8c4a64c3ea
+NeedsCompilation: no
+
+Package: staticdocs
+Version: 0.1
+Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools (>= 0.8), digest, grid, crayon
+Suggests: knitr
+License: MIT + file LICENSE
+MD5sum: 654ade59fa699687ba249ca648a99da0
 NeedsCompilation: no
 
