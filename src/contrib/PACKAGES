@@ -1,10 +1,10 @@
 Package: flowr
-Version: 0.9.7.9031
+Version: 0.9.8.9004
 Depends: R (>= 3.0.2), methods, params (>= 0.2.8), utils
 Imports: diagram, whisker, tools
-Suggests: reshape2, knitr, ggplot2, openxlsx, testthat
+Suggests: reshape2, knitr, ggplot2, openxlsx, testthat, funr
 License: MIT + file LICENSE
-MD5sum: 171b1aa695c598a6e6b6aa32a0bcc6fc
+MD5sum: d5fe9446245b4d91213c6ee05c8816e6
 NeedsCompilation: no
 
 Package: funr
@@ -43,7 +43,8 @@ NeedsCompilation: no
 
 Package: staticdocs
 Version: 0.1
-Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools (>= 0.8), digest, grid, crayon
+Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools
+        (>= 0.8), digest, grid, crayon
 Suggests: knitr
 License: MIT + file LICENSE
 MD5sum: 654ade59fa699687ba249ca648a99da0
