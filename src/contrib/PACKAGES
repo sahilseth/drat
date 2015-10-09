@@ -46,6 +46,6 @@ Version: 0.1
 Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools (>= 0.8), digest, grid, crayon
 Suggests: knitr
 License: MIT + file LICENSE
-MD5sum: 595a0005a8cd90e6f02ce7f3d689cd22
+MD5sum: f433df900a49e45ea4a52a32f390cc6c
 NeedsCompilation: no
 
