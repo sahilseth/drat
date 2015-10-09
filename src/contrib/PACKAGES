@@ -29,7 +29,7 @@ Depends: R (>= 3.1.1)
 Imports: rmarkdown, htmltools, stringr, tools, yaml, whisker
 Suggests: staticdocs, testthat
 License: MIT + file LICENSE
-MD5sum: 93b84c0d6968f68e1fcc93d1e54cad0a
+MD5sum: b70c9f0200fe9feba957bfe45eb2d8a2
 NeedsCompilation: no
 
 Package: params
@@ -43,10 +43,9 @@ NeedsCompilation: no
 
 Package: staticdocs
 Version: 0.1
-Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools
-        (>= 0.8), digest, grid, crayon
+Imports: stringr, evaluate, whisker, highlight, tools, markdown, devtools (>= 0.8), digest, grid, crayon
 Suggests: knitr
 License: MIT + file LICENSE
-MD5sum: 654ade59fa699687ba249ca648a99da0
+MD5sum: 595a0005a8cd90e6f02ce7f3d689cd22
 NeedsCompilation: no
 
