@@ -1,10 +1,10 @@
 Package: flowr
-Version: 0.9.8.9018
+Version: 0.9.8.9019
 Depends: R (>= 3.0.2), methods, params (>= 0.2.8), utils
 Imports: diagram, whisker, tools
 Suggests: reshape2, knitr, ggplot2, openxlsx, testthat, funr
 License: MIT + file LICENSE
-MD5sum: 7079e733f6f32835857c0ac29f15d0ce
+MD5sum: 4d9c56f92e77cdbb7d109ca208fb6b59
 NeedsCompilation: no
 
 Package: funr
