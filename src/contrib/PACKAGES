@@ -8,10 +8,11 @@ MD5sum: 40a205240f95866eb0067575d8acbc52
 NeedsCompilation: no
 
 Package: funr
-Version: 0.1.2
+Version: 0.3.0
 Imports: utils
-License: GPL
-MD5sum: 8d60c4cff922689bf5534dad142de500
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: fa50e0024198194569fb376029d8453f
 NeedsCompilation: no
 
 Package: ngsflows
